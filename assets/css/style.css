@@ -1,0 +1,32 @@
+
+body {
+    background-color: lightgray;
+    text-align: center;
+}
+.instructions {
+    background-color: blue;
+    color: white;
+}
+
+.random {
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    
+}
+
+.totals {
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    
+}
+.crystals {
+   
+}
+img {
+    height: 100px;
+    width: 100px;
+    
+    
+}
