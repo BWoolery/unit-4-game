@@ -1,15 +1,27 @@
 
 body {
-    background-color: lightgray;
+    background-color: black;
     text-align: center;
+    font-family: 'Rock Salt', cursive;
+}
+
+.header {
+    padding: 25px;
+}
+
+h1 {
+    color: white;
+   
 }
 .instructions {
-    background-color: blue;
+    background-color: black;
     color: white;
+    
+
 }
 
 .random {
-    background-color: aqua;
+    background-color: orangered;
     width: 200px;
     height: 200px;
     
@@ -22,11 +34,14 @@ body {
     
 }
 .crystals {
+    margin-top: 65px;
    
 }
+
 img {
     height: 100px;
     width: 100px;
     
-    
+  
 }
+
